@@ -1,0 +1,10 @@
+
+Syntax For creating trigger :
+
+The syntax for creating trigger is :
+
+Trigger [trigger name] on [object name]( Before/After event)
+
+{
+
+}
